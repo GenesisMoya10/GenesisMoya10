@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Geomara
 
-<!--
-**GenesisMoya10/GenesisMoya10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Física en la ESPOCH (Ecuador). Me apasiona la investigación científica, el análisis de datos y la aplicación de la programación para resolver problemas físicos.
 
-Here are some ideas to get you started:
+### Sobre mí:
+* Tengo experiencia en investigación en **biofísica**, analizando parámetros de desarrollo y efectos de radiación.
+*  Utilizo código para la automatización, modelado estadístico e instrumentación.
+*  Soy Tesorera de la Asociación de Estudiantes de Física de mi universidad.
+*  Miembro activo del Club de Óptica y del grupo de divulgación "Destello Físico".
+*  Actualmente perfeccionando mi nivel de inglés y buscando oportunidades en pasantías de investigación de verano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Herramientas y Lenguajes:
+* **Programación y Hardware:** Python, Arduino
+* **Análisis de imágenes:** ImageJ
+* **Documentación Académica:** LaTeX
+
+###  Mis repositorios principales:
+* [BiblioGM](https://github.com/GenesisMoya10/BiblioGM): Scripts para modelado de datos en Python y controladores en Arduino.
+
+###  Cómo contactarme:
+* **Email:** gmoya8633@gmail.com
+
